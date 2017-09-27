@@ -1,0 +1,23 @@
+git config user.name "SuhlobY"
+git config user.Email mine_lord342265@mail.ru
+git add 1.txt
+git status
+git commit -a -m "Clear"
+git push origin
+git status
+git branch -a
+git branch firstbranch
+git branch
+git checkout firstbranch
+git branch
+git status
+git add 2.txt
+git status
+git commit -a -m "Clear"
+git push origin firstbranch
+git checkout master
+git branch -a
+git merge firstbranch
+git push origin
+git branch -d firstbranch
+git push origin --delete firstbranch
