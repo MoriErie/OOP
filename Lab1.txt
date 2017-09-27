@@ -21,3 +21,4 @@ git merge firstbranch
 git push origin
 git branch -d firstbranch
 git push origin --delete firstbranch
+git rm 2.txt
