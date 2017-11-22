@@ -1,0 +1,24 @@
+* commit d50bacd733f410dbe998d568c62348370b812eea (HEAD -> master)
+| Author: SuhlobY <mine_lord342265@mail.ru>
+| Date:   Wed Nov 22 21:48:02 2017 +0300
+|
+|     Adding new file on new branch
+|
+* commit 78affa7458935ab1d01bbd00d1d2a6b2d4ea1757 (origin/master, origin/HEAD)
+| Author: SuhlobY <mine_lord342265@mail.ru>
+| Date:   Wed Nov 22 21:39:39 2017 +0300
+|
+|     Renaming
+|
+* commit c8571abe6e61ff13d94b572e163cfa08183f8e2d
+| Author: SuhlobY <mine_lord342265@mail.ru>
+| Date:   Wed Nov 22 21:36:26 2017 +0300
+|
+|     Adding new file
+|
+* commit a41ed0ee0a8d75d38921ed58a359d78355d59bfa
+| Author: SuhlobY <mine_lord342265@mail.ru>
+| Date:   Wed Nov 22 21:31:19 2017 +0300
+|
+|     Deleting 2.txt
+|
