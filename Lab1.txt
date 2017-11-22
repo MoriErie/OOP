@@ -1,0 +1,25 @@
+git init git
+git config --global user.name "SuhlobY"
+git config --global user.Email mine_lord342265@mail.ru
+git clone https://github.com/SuhlobY/OOP.git 
+git add 1.txt
+git status
+git commit -a -m "Adding new file"
+git push origin
+git status
+git branch -a
+git branch nbr
+git branch
+git checkout nbr
+git branch
+git status
+git add forbranch.txt
+git status
+git commit -a -m "Adding new file on new branch"
+git push origin nbr
+git checkout master
+git branch -a
+git merge nbr
+git push origin
+git branch -d nbr
+git push origin --delete nbr
